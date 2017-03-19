@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					383DA1B11E7E1B8500AF8247 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 8K9C3KC8S2;
 						ProvisioningStyle = Automatic;
 					};
 					383DA1C81E7E1B8500AF8247 = {
@@ -416,6 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8K9C3KC8S2;
 				INFOPLIST_FILE = startWithGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ir.sajjafari.startWithGit;
@@ -428,6 +430,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8K9C3KC8S2;
 				INFOPLIST_FILE = startWithGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ir.sajjafari.startWithGit;
