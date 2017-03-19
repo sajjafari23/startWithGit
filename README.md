@@ -1,0 +1,2 @@
+# startWithGit
+just start
